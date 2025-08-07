@@ -6,4 +6,4 @@ YOLO-BFID is a lightweight, real-time semantic segmentation model based on YOLOv
 
 The model integrates advanced modules, including GELAN, SCDown, C2fCIB, and Focus, and is designed for deployment on drone-based inspection systems with RTMP streaming support.
 
-**(All codes and trained models will be available along with the publication of the paper)
+*(As this study is part of an ongoing research project, all code and trained models will be made available upon project completion and publication of the paper.)*
